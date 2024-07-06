@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wSbsrJezhsaWZ0SUj62yq99FIr3fiYJeLHoJKGIVgjwhcZb9Rq9NgmdnSpZJwrN2XNbd8xyBZWnbgn763eXJ7A==",
+  "dgSpecHash": "SZ0/MmvQEZTnm1LRbXnvxBdZ+NSmQUdpCTXoii7L5pCfMWAUlmo4WNwBL9tREzzq+Dp75Y6KgyCbe22/oS7mrw==",
   "success": true,
   "projectFilePath": "D:\\Projects\\MicroService\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,7 @@
     "C:\\Users\\mozam\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.6\\microsoft.entityframeworkcore.inmemory.8.0.6.nupkg.sha512",
     "C:\\Users\\mozam\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.6\\microsoft.entityframeworkcore.relational.8.0.6.nupkg.sha512",
     "C:\\Users\\mozam\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.6\\microsoft.entityframeworkcore.sqlserver.8.0.6.nupkg.sha512",
+    "C:\\Users\\mozam\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.6\\microsoft.entityframeworkcore.tools.8.0.6.nupkg.sha512",
     "C:\\Users\\mozam\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\mozam\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\mozam\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
